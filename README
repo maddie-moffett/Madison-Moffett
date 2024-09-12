@@ -1,1 +1,6 @@
+#I don't think I did this correctly
+#I mean it's a file called README
+#But it's not a text file. I couldn't find the button for create a README file is this good enough?
+#What are you supposed to read in here?
 
+print("Hello world? Is that what is to be read?")
